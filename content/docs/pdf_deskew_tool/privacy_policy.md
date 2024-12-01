@@ -35,5 +35,5 @@ If this Privacy Policy is updated, any changes will be communicated within the A
 
 #### 7. Contact
 If you have any questions or concerns about this Privacy Policy, please contact us at:  
-[Insert Email Address or Link to Contact Form]
+otokin.apps.dev@gmail.com
 
