@@ -1,0 +1,7 @@
+baseURL = 'https://masushin.github.io/hugo-site/'
+languageCode = 'en-us'
+title = 'teruteku'
+
+[module]
+[[module.imports]]
+path = 'github.com/alex-shpak/hugo-book'
