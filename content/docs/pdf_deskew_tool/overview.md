@@ -23,4 +23,4 @@ bookToc: false
 - **Blank Space Removal**  
   Cuts out excess margins for a compact and clean PDF.
 
-This app is perfect for students, professionals, and anyone looking to refine their scanned documents. Download "[App Name]" today and transform your scans into beautifully organized PDFs!
+This app is perfect for students, professionals, and anyone looking to refine their scanned documents.

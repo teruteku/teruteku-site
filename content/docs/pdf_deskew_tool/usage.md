@@ -50,3 +50,15 @@ Specifies the position of the content on the page.
 #### (Intensity)
 
 Specifies the detection intensity for content detection. If unnecessary parts are detected as content, please reduce the intensity.
+
+#### (Content Position)
+
+Specifies the position of the content on the page.
+
+* (Top-Right) Content is at the top right of the page
+
+* (Top-Left) Content is at the top left of the page
+
+* (Full-Width) Content spans the full width of the page
+
+* (Free) Other than the above
